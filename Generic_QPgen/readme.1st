@@ -1,0 +1,3 @@
+A generic approach to generate quadrature waveforms using timer interrupts.
+
+Target: PIC12F675, TIMER1.
